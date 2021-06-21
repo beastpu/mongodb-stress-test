@@ -11,8 +11,8 @@ uri_2 = "s-***.mongodb.rds.aliyuncs.com:3717"
 `insertMany.py` user multiProcess to test batch insert operation
 
 # result
-2 shard(each:4c8g)
-mongodb: 
+mongodb:
+ - 2 shard(each:4c8g) 
 ```
 insert: 10k rps
 batch inset: 20k rps
