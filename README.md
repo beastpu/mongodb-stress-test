@@ -7,7 +7,7 @@ uri_1 = "s-***.mongodb.rds.aliyuncs.com:3717"
 uri_2 = "s-***.mongodb.rds.aliyuncs.com:3717"
 ```
 # running
-`insertOne.py` use process + gevent to test insertOne operation
+`insertOne.py` use process + gevent to test insertOne operation.  
 `insertMany.py` user multiProcess to test batch insert operation
 
 # result
