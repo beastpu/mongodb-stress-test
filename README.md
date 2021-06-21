@@ -17,4 +17,4 @@ mongodb:
 insert: 10k rps
 batch inset: 20k rps
 ```
-分享不易，求个👍
+>分享不易，求个👍
